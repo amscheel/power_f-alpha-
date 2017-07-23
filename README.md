@@ -1,0 +1,3 @@
+This project was inspired by a [recent debate](https://osf.io/preprints/psyarxiv/mky9j/) about whether the conventional alpha level should be changed from .05 to .005. One reason to object to this is that for the same sample size and effect size, power will be lower.
+
+This code plots power across a range of values for alpha. It is based on a t-test: You can pick a two-sample or paired t-test, choose an effect size and a set of different sample sizes that you find interesting.
